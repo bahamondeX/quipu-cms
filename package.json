@@ -16,8 +16,10 @@
     "clsx": "^2.1.1",
     "embla-carousel-vue": "^8.6.0",
     "lucide-vue-next": "^0.525.0",
+    "nanoid": "^5.1.5",
     "pinia": "^3.0.3",
     "pinia-plugin-persistedstate": "^4.4.1",
+    "quipubase": "^1.0.27",
     "reka-ui": "^2.4.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
@@ -25,7 +27,9 @@
     "vee-validate": "^4.15.1",
     "vue": "*",
     "vue-router": "*",
-    "vue-sonner": "^2.0.2"
+    "vue-sonner": "^2.0.2",
+    "zod": "3.x.x",
+    "zod-to-json-schema": "3.x.x"
   },
   "devDependencies": {
     "@iconify/vue": "^5.0.0",
